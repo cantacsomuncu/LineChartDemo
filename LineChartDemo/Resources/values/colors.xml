@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#2c3e50</color>
+  <color name="colorPrimaryDark">#1B3147</color>
+  <color name="colorAccent">#261F3B</color>
+  <color name="colorPlotRed">#ff2428</color>
+  <color name="colorPlotBlue">#4cfffc</color>
+  <color name="colorPlotGreen">#00ff37</color>
+  <color name="colorGradientStart">#9ea6ef</color>
+  <color name="colorGradientEnd">#d2d3f1</color>
+  <color name="colorModButton">#fff</color>
+  <color name="colorTextView">#fff</color>
+  <color name="colorTextViewNumber">#fff</color>
+</resources>
